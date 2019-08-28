@@ -4,7 +4,7 @@ def run_guessing_game
   user_input = gets_user_number
   
   case user_input
-  
+  when rand_number
   end
 end
 
