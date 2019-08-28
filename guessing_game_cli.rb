@@ -5,6 +5,7 @@ def run_guessing_game
   
   case user_input
   when rand_number
+    puts ""
   end
 end
 
