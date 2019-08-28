@@ -5,6 +5,10 @@ def run_guessing_game
   
   case user_input
   when rand_number
+    puts "You guessed the correct number!"
+  when 'exit'
+    puts "Goodbye!"
+  else
     puts ""
   end
 end
