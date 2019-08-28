@@ -5,6 +5,7 @@ def run_guessing_game
   
   case user_input
   
+  end
 end
 
 def gets_user_number
