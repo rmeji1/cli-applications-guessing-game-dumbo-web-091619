@@ -9,7 +9,7 @@ def run_guessing_game
   when 'exit'
     puts "Goodbye!"
   else
-    puts "Sorry! The computer guessed #{rand_number}."
+    print "Sorry! The computer guessed #{rand_number}."
   end
 end
 
