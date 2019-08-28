@@ -5,6 +5,6 @@ def run_guessing_game
 end
 
 def gets_user_number
-  puts ""
+  puts "Guess a number:"
   gets.strip
 end
