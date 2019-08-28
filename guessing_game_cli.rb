@@ -14,5 +14,5 @@ def run_guessing_game
 end
 
 def gets_user_number
-  gets.strip
+  gets.chomp
 end
